@@ -1044,6 +1044,11 @@
     "name": "Lil uzi vert molly guitar version",
     "color": "#bababa",
     "mp3": "sounds/Menace.mp3"
-    }  
+    },  
+    {
+     "name": "RAHHHHHHHHHHHHHHH",
+    "color": "#bbffbb",
+    "mp3": "sounds/rah.mp3"
+    }
   ]
 }
