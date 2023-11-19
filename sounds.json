@@ -1046,9 +1046,14 @@
     "mp3": "sounds/Menace.mp3"
     },  
     {
-     "name": "RAHHHHHHHHHHHHHHH",
+    "name": "RAHHHHHHHHHHHHHHH",
     "color": "#bbffbb",
     "mp3": "sounds/rah.mp3"
+    },
+    {
+    "name": "I DONT GIVE A SHETE",
+    "color": "#4fb2e3",
+    "mp3": "sounds/I DONT GIVE A SHETE.mp3"
     }
-  ]
-}
+   [
+  }
